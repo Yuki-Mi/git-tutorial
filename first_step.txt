@@ -4,3 +4,5 @@ gitを練習する最初のステップです
 
 feature-A
 
+feature-C
+
